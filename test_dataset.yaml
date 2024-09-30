@@ -1,0 +1,5 @@
+train: "C:\\Users\\Lapto\\Downloads\\Deep Midterm\\dataset\\Training\\images"
+val: "C:\\Users\\Lapto\\Downloads\\Deep Midterm\\dataset\\Val\\images"
+
+nc: 9                          
+names: ['Car', 'Van', 'Truck', 'Pedestrian', 'Person_sitting', 'Cyclist', 'Tram', 'Misc', 'DontCare']
